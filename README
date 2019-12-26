@@ -3,4 +3,6 @@ This ITK filter performs automatic skull-stripping for neuroimage analysis.
 
 Read the INSTALL file for instructions how to install with ITK
 An atlas image including mask can be found in the test/Input folder
-You can build your own project based on the example folder
+You can build your own project based on the example folder.
+
+https://www.insight-journal.org/browse/publication/859
